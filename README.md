@@ -73,6 +73,7 @@ Code Fix → Regression Test → ↻ Loop
 - **Recursive self-improvement.** The system audits the system that builds the system.
 - **Free front, paid back.** Free models scan; paid models rule.
 - **One person + 14 AI = manufacturing plant.** 3,800-unit order, processed autonomously.
+- **Essays:** [docs/essays/](docs/essays/) — *The Meaning of AI* (EN+ZH), complement to Pageau @ ARC 2026 (2026-07-05)
 
 ---
 
@@ -135,6 +136,7 @@ Code Fix → Regression Test → ↻ Loop
 - **递归自我改进。** 审查系统的系统，构建系统的系统。
 - **前端免费，后端付费。** 免费模型做扫描，付费模型做裁决。
 - **一个人 + 14个AI = 制造工厂。** 3800件订单已全自动处理。
+- **随笔：** [docs/essays/](docs/essays/) — 《AI 时代的意义》（中+EN），与 Pageau @ ARC 2026 互补（2026-07-05）
 
 ---
 
